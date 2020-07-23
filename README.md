@@ -2,7 +2,7 @@
 *Implementation of fastest/smallest available keras model with pretrained weights and standard data augmentation*
 
 ## Abstract
-Image Classification problems are complex where there is no one size fits all solution. However, a simple, general and fast solution may be adopted for developers to have a "baseline" comparison. This script provides that, using the smallest and arguably most efficient deep learning neural network on keras available with pretrained weights.
+Image Classification problems are complex where there is no one size fits all solution. However, a simple, general and fast solution may be adopted for developers to have a "baseline" comparison. This script provides that, using the smallest and arguably most efficient deep learning neural network available on keras  with pretrained weights; along with typical data augmentations and hyperparameters.
 
 ## Settings
 * MobileNetV2
