@@ -1,4 +1,4 @@
-# Baseline Image Classification Tensorflow/Keras Model
+# Baseline Tensorflow/Keras Image Classification  Model
 *Implementation of fastest/smallest available keras model with pretrained weights and standard data augmentation/hyperparameters*
 
 ## Abstract
