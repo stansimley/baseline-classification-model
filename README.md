@@ -1,5 +1,5 @@
 # Baseline Image Classification Tensorflow/Keras Model
-*Implementation of fastest/smallest available keras model with pretrained weights and standard data augmentation*
+*Implementation of fastest/smallest available keras model with pretrained weights and standard data augmentation/hyperparameters*
 
 ## Abstract
 Image Classification problems are complex where there is no one size fits all solution. However, a simple, general and fast solution may be adopted for developers to have a "baseline" comparison. This script provides that, using the smallest and arguably most efficient deep learning neural network available on keras  with pretrained weights; along with typical data augmentations and hyperparameters.
