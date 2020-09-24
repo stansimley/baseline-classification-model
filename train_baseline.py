@@ -69,7 +69,7 @@ predictions = Dense(NB_CLASS, activation='softmax')(x) #add logistic layer for t
 
 model = Model(inputs=base_model.input, outputs=predictions)
 
-
+#transfer learning
 for layer in base_model.layers:
     layer.trainable = False
 
